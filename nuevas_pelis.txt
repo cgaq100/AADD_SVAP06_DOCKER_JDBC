@@ -1,0 +1,11 @@
+film_id|title|release_year|language_id|rental_duration|rental_rate|replacement_cost|rating|actores(id-first_name last_name)
+
+2000|El padrino|1972|2|5|3.50|16.95|G|203-Al Pacino, 204-Marlon Brando, 205-Robert De Niro
+
+2001|Rocky|1976|2|5|4.50|20.95|G|206-Sylvester Stallone, 207-Carl Weathers, 208-Burgess Meredith, 209-Talia Shire
+
+2002|Jungla de cristal|1988|2|5|6.50|15.95|G|210-Alan Rickman, 211-Bonnie Bedelia, 212- Reginald Veljohnson, 213-Bruce Willis
+
+2003|Los mercenarios 2|2012|2|5|2.50|12.95|G|214-Jason Statham, 206-Sylvester Stallone, 213- Bruce Willis
+
+2004|Presunto inocente|1990|2|5|1.50|10.95|G|211-Bonnie Bedelia,215-Harrison Ford
